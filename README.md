@@ -40,13 +40,13 @@ The dataset contains **2,240 customer records** with features including:
 
 ## Key Findings
 ### Cluster 0: **Occasional, Young Families on a Budget**
-- **Demographics**: Moderate age (~53 years), highest number of children, low income (~$35K/year).
+- **Demographics**: Moderate age (\~53 years), highest number of children, low income (\~$35K/year).
 - **Behavior**: Minimal engagement (lowest purchase frequency), negligible campaign response.
 - **Spending**: Focused on essentials (meat, wine) with the lowest total spend (~$116/customer).
 - **Strategy**: Target with price incentives or family-oriented promotions.
 
 ### Cluster 1: **Premium, Digital-First Empty-Nest Households**
-- **Demographics**: Older (~57 years), high income (~$69K/year), few children.
+- **Demographics**: Older (\~57 years), high income (\~$69K/year), few children.
 - **Behavior**: Highest digital engagement, frequent purchases, strong campaign response (~25% acceptance).
 - **Spending**: Top spenders (~$1,166/customer), especially on premium products (wine, meat, gold).
 - **Strategy**: Offer exclusive loyalty programs and premium deals.
@@ -58,7 +58,7 @@ The dataset contains **2,240 customer records** with features including:
 - **Strategy**: Promote value bundles or bulk discounts.
 
 ### Cluster 3: **Established, Multi-Channel Affluent Customers**
-- **Demographics**: High income (~$70K/year), older (~57 years), few young children.
+- **Demographics**: High income (\~$70K/year), older (\~57 years), few young children.
 - **Behavior**: Omni-channel shoppers, moderate campaign response.
 - **Spending**: High spend (~$975/customer) across all categories, including premium products.
 - **Strategy**: Focus on cross-channel loyalty programs.
@@ -71,18 +71,3 @@ The dataset contains **2,240 customer records** with features including:
 - **Cluster 0**: Re-engage with introductory offers or subscription models.
 
 ---
-
-## How to Use This Notebook
-1. **Prerequisites**:
-   - Python 3.6+, Jupyter Notebook.
-   - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`.
-
-2. **Steps**:
-   - Download the dataset from Kaggle.
-   - Run the notebook cells sequentially to preprocess data, perform clustering, and visualize results.
-   - Modify clustering parameters (e.g., `n_clusters`) to experiment with different segmentations.
-
----
-
-## Conclusion
-This analysis provides actionable insights into customer behavior, enabling businesses to tailor strategies for different segments. By focusing on high-value customers (Clusters 1 & 3) and re-engaging low-spenders (Cluster 0), companies can optimize marketing ROI and improve customer retention.
