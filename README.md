@@ -52,7 +52,7 @@ The dataset contains **2,240 customer records** with features including:
 - **Strategy**: Offer exclusive loyalty programs and premium deals.
 
 ### Cluster 2: **Value-Conscious, Moderately Active Families**
-- **Demographics**: Similar to Cluster 0 but slightly higher income (~$34K/year).
+- **Demographics**: Similar to Cluster 0 but slightly lower income (~$34K/year).
 - **Behavior**: Moderate purchase frequency, minimal campaign interest.
 - **Spending**: Mid-low spend (~$209/customer), slightly more diversified.
 - **Strategy**: Promote value bundles or bulk discounts.
